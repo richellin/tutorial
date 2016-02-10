@@ -13,6 +13,6 @@
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
 
 ## 실습편
-### >=5.1
+### >=5
 - [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
-
+- [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
