@@ -11,11 +11,17 @@
 - [Symfony API](http://api.symfony.com/)
 
 ## 개념편
+kr
 - [Laravel을 공부하기전에 읽어야할 기본 PHP 개념](https://www.lesstif.com/pages/viewpage.action?pageId=26083451)
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
-- [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
-- [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
+- [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
+jp
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
+- [Route Group...](http://qiita.com/ytake/items/1c6eb4aae06aaad554aa)
+- [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
+
+책
+- [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
 
 ## Auth편
 - [Route::auth() and namespacing](http://stackoverflow.com/questions/34440177/routeauth-and-namespacing)
