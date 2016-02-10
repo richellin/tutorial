@@ -12,7 +12,7 @@
 
 ## 개념편
 #### kr
-- [Laravel을 공부하기전에 읽어야할 기본 PHP 개념](https://www.lesstif.com/pages/viewpage.action?pageId=26083451)
+- [PHP5 특징](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
 - [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
 
@@ -29,7 +29,8 @@
 ### >=5
 #### kr
 - [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
-
+- [라라벨 5 일정 관리 서비스 만들기](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+ 
 #### jp
 - [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
 
