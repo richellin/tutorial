@@ -5,15 +5,17 @@
  한달안에 모든 링크를 구현 및 정독.
 
 # Laravel
-## 개념편
+## 공식 문서
+- [Laravel Document](https://laravel.com/docs/)
+- [Laravel API](https://laravel.com/api/master/Illuminate/Http/Response.html)
+- [Symfony API](http://api.symfony.com/)
 
+## 개념편
 - [Laravel을 공부하기전에 읽어야할 기본 PHP 개념](https://www.lesstif.com/pages/viewpage.action?pageId=26083451)
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
 - [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
-
-
 
 
 ## 실습편
