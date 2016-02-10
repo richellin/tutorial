@@ -25,13 +25,14 @@
 ## Auth편
 - [Route::auth() and namespacing](http://stackoverflow.com/questions/34440177/routeauth-and-namespacing)
 - [laravel5_2_multi_auth](https://blog.e2info.co.jp/2015/12/29/laravel5_2_multi_auth/)
+- [Laravel5.2 기본적인 auth 구현 샘플코드](https://github.com/richellin/laravel5.2-auth)
 
 ## 실습편
 ### >=5
 #### kr
 - [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
 - [라라벨 5 일정 관리 서비스 만들기](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
- 
+- [Laravel5.2 기본적인 auth 구현 샘플코드](https://github.com/richellin/laravel5.2-auth)
 #### jp
 - [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
 
