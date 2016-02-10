@@ -25,6 +25,7 @@
 ## Auth편
 - [Route::auth() and namespacing](http://stackoverflow.com/questions/34440177/routeauth-and-namespacing)
 - [laravel5_2_multi_auth](https://blog.e2info.co.jp/2015/12/29/laravel5_2_multi_auth/)
+
 ## 실습편
 ### >=5
 #### kr
