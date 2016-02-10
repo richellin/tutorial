@@ -11,8 +11,16 @@
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
 - [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
+- [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
+
+
+
 
 ## 실습편
 ### >=5
 - [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
 - [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
+
+
+## 유용한 툴
+- [PHP Coding Standards Fixer(PSR-1 PSR-2)](http://cs.sensiolabs.org/)
