@@ -17,6 +17,8 @@
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
 
+## Auth편
+- [Route::auth() and namespacing](http://stackoverflow.com/questions/34440177/routeauth-and-namespacing)
 
 ## 실습편
 ### >=5
