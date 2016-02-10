@@ -11,16 +11,15 @@
 - [Symfony API](http://api.symfony.com/)
 
 ## 개념편
-kr
+#### kr
 - [Laravel을 공부하기전에 읽어야할 기본 PHP 개념](https://www.lesstif.com/pages/viewpage.action?pageId=26083451)
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
 - [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
-jp
+
+#### jp
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
 - [Route Group...](http://qiita.com/ytake/items/1c6eb4aae06aaad554aa)
 - [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
-
-책
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
 
 ## Auth편
@@ -28,8 +27,12 @@ jp
 
 ## 실습편
 ### >=5
-- [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
+#### kr
 - [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
+
+#### jp
+- [Laravelの環境設定＆開発体験自作Laravel5.1ミニマムチュートリアルまとめ](http://qiita.com/fumiyasac@github/items/78a335880f7abb1de8bf/)
+
 
 
 ## 유용한 툴
