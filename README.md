@@ -48,8 +48,8 @@
 
 ## 라라벨 유용 팁 블로그 모음
 ####jp
--[localdisk](http://localdisk.hatenablog.com/)
--[kore1server](http://kore1server.com//)
+- [localdisk](http://localdisk.hatenablog.com/)
+- [kore1server](http://kore1server.com//)
 
 ## 커뮤니티
 - [Laravel Korea](https://www.laravel.co.kr/)
