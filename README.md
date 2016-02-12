@@ -31,7 +31,7 @@
 ### >=5
 #### kr
 - [라라벨 5 입문 및 실전 강좌](https://github.com/richellin/l5essential)
-- [라라벨 5 일정 관리 서비스 만들기](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+- [라라벨 5 일정 관리 서비스 만들기](https://www.lesstif.com/pages/viewpage.action?pageId=24445411)
 - [라라벨5.2 기본적인 auth 구현 샘플코드](https://github.com/richellin/laravel5.2-auth)
 
 #### jp
