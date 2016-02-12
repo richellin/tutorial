@@ -1,5 +1,5 @@
 # Tutorial
- 유용한 듀토리얼 링크를 순서대로 진행함으로써 내것으로 만들기.
+ 유용한 듀토리얼 및 설명된 링크를 진행 및 읽음으로써 내것으로 만들기.
 
 ## 목표
  한달안에 모든 링크를 구현 및 정독.
@@ -17,10 +17,14 @@
 - [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
 
 #### jp
+- [Laravel Document(ドキュメント)5.1LTS](http://readouble.com/)
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
 - [Route Group...](http://qiita.com/ytake/items/1c6eb4aae06aaad554aa)
 - [Laravel IoC コンテナの使い方](http://www.1x1.jp/blog/2014/02/how-to-use-ioc-container-in-laravel.html)
 - [Implementing Laravel 日本語版](https://leanpub.com/implementinglaravel-jpn)
+- [Laravel 5.1 リクエストのライフサイクル](http://readouble.com/laravel/5/1/ja/lifecycle.html)
+
+
 
 ## Auth편
 - [Route::auth() and namespacing](http://stackoverflow.com/questions/34440177/routeauth-and-namespacing)
@@ -40,6 +44,12 @@
 
 ## 유용한 툴
 - [PHP Coding Standards Fixer(PSR-1 PSR-2)](http://cs.sensiolabs.org/)
+
+
+## 라라벨 유용 팁 블로그 모음
+####jp
+-[localdisk](http://localdisk.hatenablog.com/)
+-[kore1server](http://kore1server.com//)
 
 ## 커뮤니티
 - [Laravel Korea](https://www.laravel.co.kr/)
