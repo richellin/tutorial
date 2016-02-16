@@ -18,6 +18,7 @@
 - [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
 
 #### jp
+- [PHPによるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 - [Laravel Document(ドキュメント)5.1LTS](http://readouble.com/)
 - [PHPのコーディング規約 PSR-0、PSR-1、PSR-2、PSR-3とは](http://9ensan.com/blog/programming/php/php-psr-coding-standards/)
 - [Route Group...](http://qiita.com/ytake/items/1c6eb4aae06aaad554aa)
