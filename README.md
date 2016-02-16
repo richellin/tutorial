@@ -13,6 +13,7 @@
 ## 개념편
 #### kr
 - [PHP5 특징](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+- [PHP The Right Way](http://modernpug.github.io/php-the-right-way/)
 - [Laravel5.0 한국어 메뉴얼](http://xpressengine.github.io/laravel-korean-docs/)
 - [Laravel 내가 몰랐던 것들](http://ghost.rivario.com/laravel-faq/)
 
